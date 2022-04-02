@@ -3,7 +3,3 @@
 ```js
 console.log("selam");
 ```
-
-<div style = "color : red;">
-  selam
-</div>
