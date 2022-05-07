@@ -1,2 +1,2 @@
 ```hello mars```
-[![Discord Presence](https://lanyard.cnrad.dev/api/606819897305202708)](https://gearscode.tk)
+[![Discord Presence](https://lanyard.cnrad.dev/api/829632398341832704)](https://gearscode.tk)
