@@ -5,7 +5,7 @@
 >
 > From there, I moved into web development—starting with HTML/CSS and EJS before diving into the **React** and **Next.js** ecosystem. (Even though I like Vue, I chose React for its stronger community.)
 >
-> Right now, I'm shifting my focus toward low-level programming and learning **Rust**.
+> Currently, I'm a 2nd-year Computer Engineering student shifting my focus toward low-level programming and learning **Rust**.
 
 ---
 
