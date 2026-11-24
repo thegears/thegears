@@ -27,14 +27,16 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **todot** | A yet another to-do TUI. | [GitHub](https://github.com/thegears/todot) |
 | **simpless** | A yet another screenshot tool. | [GitHub](https://github.com/thegears/simpless) |
+| **ruld** | Real-time two-player debate web app built with Next.js & Supabase. | [GitHub](https://github.com/thegears/ruld) |
 | **Geacord** | A chat app like Discord. | [GitHub](https://github.com/thegears/geacord) |
 | **Yaman Grup Sigorta** | Website for an insurance company. | [Live Site](https://www.yamangrupsigorta.net/) |
+
 
 ---
 
